@@ -8,5 +8,6 @@ public class Main{
 
         System.out.println("Hello, "+name);
         System.out.println("Welcome to CCE");
+        System.out.println("3rd change");
     }
 }
