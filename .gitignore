@@ -1,0 +1,12 @@
+# Java build files
+*.class
+bin/
+out/
+target/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
